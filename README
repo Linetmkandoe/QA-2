@@ -1,0 +1,9 @@
+Question 1
+I created a class to hold the title, ingredients,preparation_time, cooking_method and nutritional_info
+After the class you create a method to display the recipe you have and print the input
+Create another class of the MoroccanRecipe that will hold recipe, The contructor will take in a unique property of only the qusine
+In this class it will inherit from the Recipe class
+Create a method from the class to display the added info
+Create another subclass of NigerianRecipe that will take in a unique property
+It will also inherit from the Recipe and have a method to display the added feature
+This will also occur in the class EthopianRecipe.
